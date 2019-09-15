@@ -24,7 +24,7 @@
 | 4. 13:30 - 15:00 | | **Лаб** [Алгоритмы и структуры данных](Subjects/Algorithms.md) *240* | **Лаб** [Архитектура ЭВМ](Subjects/ComputerArchitecture.md) *325* | | **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *318* | |
 | 5. 15:20 - 16:50 | | | **Л** [Архитектура ЭВМ](Subjects/ComputerArchitecture.md) *100* | | | |
 
-Экзамены
+### Экзамены
 
 * [Линейная алгебра](Subjects/LinearAlgebra.md)
 * [Математический анализ](Subjects/MathematicalAnalysis.md)
@@ -33,7 +33,7 @@
 
 ## Семестр 2
 
-Экзамены
+### Экзамены(-)
 
 * [~~Линейная алгебра~~](Subjects/LinearAlgebra.md)
 * [Математический анализ](Subjects/MathematicalAnalysis.md)
