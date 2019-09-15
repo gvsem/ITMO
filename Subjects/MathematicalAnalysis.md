@@ -11,6 +11,11 @@
 
 [Конспект ИТМО](http://neerc.ifmo.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_1_%D0%BA%D1%83%D1%80%D1%81)
 
+[Материалы группы](https://drive.google.com/drive/folders/1Zzo5xMt3yBGYMdKVkhtGDmFdaQVFw8-a?sort=13&direction=a)
+
+[Материалы потока](https://drive.google.com/drive/folders/1B0THe8TTUL_o85oORFz733EgUgB1NGfD?sort=13&direction=a)
+
+
 ### Практика
 
 **Преподаватель:** pending...
