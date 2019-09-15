@@ -25,3 +25,22 @@
 | 3. 11:40 - 13:10 | **Л** [Линейная алгебра](Subjects/LinearAlgebra.md) *1223* | **Лаб** [Алгоритмы и структуры данных](Subjects/Algorithms.md) *240* | **П** [Линейная алгебра](Subjects/LinearAlgebra.md) *313* | | **Л** [Математический анализ](Subjects/MathematicalAnalysis.md) *285* | |
 | 4. 13:30 - 15:00 | | **Лаб** [Алгоритмы и структуры данных](Subjects/Algorithms.md) *240* | **Лаб** [Архитектура ЭВМ](Subjects/ComputerArchitecture.md) *325* | | **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *318* | |
 | 5. 15:20 - 16:50 | | | **Л** [Архитектура ЭВМ](Subjects/ComputerArchitecture.md) *100* | | | |
+
+Экзамены
+
+* [Линейная алгебра](Subjects/LinearAlgebra.md)
+* [Математический анализ](Subjects/MathematicalAnalysis.md)
+* [Дискретная математика](Subjects/DiscreteMathematics.md)
+* [Алгоритмы и структуры данных](Subjects/Algorithms.md)
+
+## Семестр 2
+
+Экзамены
+
+* [~~Линейная алгебра~~](Subjects/LinearAlgebra.md)
+* [Математический анализ](Subjects/MathematicalAnalysis.md)
+* [Дискретная математика](Subjects/DiscreteMathematics.md)
+* [**Бизнес-модели основных секторов инновационной экономики**](Subjects/InnovativeEconomics.md)
+* [Алгоритмы и структуры данных](Subjects/Algorithms.md)
+* [**Программирование**](Subjects/Programming.md)
+* [**Базы данных**](Subjects/Databases.md)
