@@ -21,8 +21,8 @@ moskalenko.mary@gmail.com
 
 Регулярные д/з, есть к/р, два рубежных тестирования
 
-Староста узнает папку, куда сдавать
+[Папка для д/з](https://drive.google.com/drive/folders/12qq0EZxhPmB3T7SGwU3zkaa38--JE4Ql)
 
 ### Лабы
 
-На Python, есть контесты
+На Python, есть контесты. Всего 4 лабы.
