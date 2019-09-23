@@ -35,6 +35,11 @@
 
 alexander1193935@gmail.com, tg: a1_x_3r
 
+> **Домашнее задание на 28.09:**
+>
+> [Папка преподавателя](https://drive.google.com/drive/folders/1YBCxu1Vg-vWvaVbzmckRuvWFs6jlnJzA)
+>
+> Д/З: задачи 3 (номера 1-3 полностью)
 
 > **Домашнее задание на 21.09:**
 >
