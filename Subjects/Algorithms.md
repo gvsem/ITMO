@@ -13,7 +13,7 @@
 
 [Материалы от лектора](https://drive.google.com/drive/folders/1Xt7_RmMIkosWlkSmNFREjqQ-1dIoqJ0E)
 
-[Телеграм чат от Антона](https://t.me/discretmath)
+[Телеграм чат от Антона](https://t.me/discretmath) [Группа ВК](https://vk.com/disalgo)
 
 Староста должен узнать список литературы и получать материалы.
 
