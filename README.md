@@ -19,11 +19,9 @@
 
 ## Новости и мероприятия группы
 
-> ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) *дедлайн*
->
-> ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) *обратите внимание*
+> ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) *дедлайн*  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) *обратите внимание*
 
-###### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Изменения в расписании с 24.09!!
+###### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Дайджест на неделю с 23.09 + меняется расписание!
 
 |№| Понедельник 23| Вторник 24| Среда 25| Четверг 26| Пятница 27| Суббота 28|
 | ------ | ------ |------ |------ |------ |------ |------ |
@@ -31,9 +29,9 @@
 | 1. 8:20 - 9:50 | | | | | **Л** [Введение в цифровую культуру и программирование](Subjects/DigitalCultureIntroduction.md) *466* | **Лаб** [Программирование](Subjects/Programming.md) *237* |
 | 2. 10:00 - 11:30 | **Пр** Иностранный язык *sp* | | | **Пр** Иностранный язык *sp* | **Л** [Программирование](Subjects/Programming.md) *285* | **Лаб** [Дискретная математика](Subjects/DiscreteMathematics.md) *236* ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) *Д/з №2* |
 | 3. 11:40 - 13:10 | **Л** [Линейная алгебра](Subjects/LinearAlgebra.md) *1223* | **Лаб** [Алгоритмы и структуры данных](Subjects/Algorithms.md) *240* ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) *Лаба №1* | **П** [Линейная алгебра](Subjects/LinearAlgebra.md) *313* ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) *Д/з №1* | | **Л** [Математический анализ](Subjects/MathematicalAnalysis.md) *285* | |
-| 4. 13:30 - 15:00 | | **Лаб** [Алгоритмы и структуры данных](Subjects/Algorithms.md) *240* | **Лаб** [Архитектура ЭВМ](Subjects/ComputerArchitecture.md) *325* ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) *Д/з №1* | | | |
+| 4. 13:30 - 15:00 |![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **ДОПОЛНИТЕЛЬНАЯ ПАРА** <br/> **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *1121* | **Лаб** [Алгоритмы и структуры данных](Subjects/Algorithms.md) *240* | **Лаб** [Архитектура ЭВМ](Subjects/ComputerArchitecture.md) *325* ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) *Д/з №1* | | | |
 | 5. 15:20 - 16:50 | | | **Л** [Архитектура ЭВМ](Subjects/ComputerArchitecture.md) *100* | | | |
-| 6. 17:00 - 18:30 | | | **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *313* | | | |
+| 6. 17:00 - 18:30 | | |![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **ТЕПЕРЬ ВСЕГДА** <br/> **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *313* | | | |
 
 ###### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Доп пара по линалу на неделе с 30.09 (позже)
 
