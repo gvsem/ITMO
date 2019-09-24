@@ -13,7 +13,7 @@
 
 [Материалы от лектора](https://drive.google.com/drive/folders/1C3VvBkNUsuamq-rx7IxNFhjWUl55orIA)
 
-[Телеграм чат от Антона](https://t.me/discretmath)
+[Телеграм чат от Антона](https://t.me/discretmath)  [Группа ВК](https://vk.com/disalgo)
 
 На лекциях могут быть внезапные опросы. Дополнительно есть необходимость доказывать (или догугливать) некоторый материал.
 
