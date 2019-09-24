@@ -13,6 +13,8 @@
 
 [Материалы от лектора](https://drive.google.com/drive/folders/1Xt7_RmMIkosWlkSmNFREjqQ-1dIoqJ0E)
 
+[Телеграм чат от Антона](https://t.me/discretmath)
+
 Староста должен узнать список литературы и получать материалы.
 
 На лекциях есть кодинг (в тройках). Тройки должны быть постоянными.
@@ -20,6 +22,8 @@
 ### Лабы
 
 **Преподаватель:** Кравцов Никита
+
+[Результаты по лабам](https://docs.google.com/spreadsheets/d/1j3N3L9A8RZX56ird2hINcRD-bkXuU8yLa9TPkXq2CVU/edit#gid=0)
 
 [Контесты для лаб](http://neerc.ifmo.ru/pcms2client/login.xhtml)
 
