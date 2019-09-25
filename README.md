@@ -5,7 +5,15 @@
 Учебная документация:
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Расписание занятий](Timetable.md#Расписание) *изменения от 24.09*
 * [Список экзаменов](Timetable.md#Экзамены)
-* [Учебные дисциплины](Subjects/)
+
+Учебные дисциплины:
+* [Алгоритмы и структуры данных](Subjects/Algorithms.md)
+* [Архитектура ЭВМ](Subjects/ComputerArchitecture.md)
+* [Введение в цифровую культуру и программирование](Subjects/DigitalCultureIntroduction.md)
+* [Дискретная математика](Subjects/DiscreteMathematics.md)
+* [Линейная алгебра](Subjects/LinearAlgebra.md)
+* [Математический анализ](Subjects/MathematicalAnalysis.md)
+* [Программирование](Subjects/Programming.md)
 
 Документы:
 * [Список группы](GroupList.md)
