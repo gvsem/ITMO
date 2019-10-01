@@ -25,5 +25,7 @@ khlopotov@itmo.ru
 
 Вариант: порядковый номер mod 10
 
+[Результаты по лабам](https://docs.google.com/spreadsheets/d/1hIfLgHaQZVp73-dm4aHvfQIzt7netRIvkgXQgzoefYs/edit?usp=sharing)
+
 [Система сдачи](https://piazza.com)
 
