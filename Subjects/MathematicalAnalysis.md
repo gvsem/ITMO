@@ -22,6 +22,8 @@
 
 **Преподаватель:** Шереметьев Владислав Олегович
 
+[Необязательные домашние задания](https://docs.google.com/document/d/100B2GhiiPc6GhrxP9IZQlGW6mHGH8Zi5smw23AMiaHU/edit)
+
 [Задачник (специально попрошен)](https://drive.google.com/file/d/15Q_lJb927GEX3j2Mt1e80c-Nr7F6i-eu/view?usp=sharing)
 
 [факультативный Демидович](http://pm-pu.ru/stuff/analiz/books/demidovich_sbornik.pdf)
