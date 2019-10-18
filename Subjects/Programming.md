@@ -15,4 +15,4 @@
 
 **Преподаватель:** Баева Дарья Игоревна
 
-Задания: [Linn1024/IS-programming](https://github.com/Linn1024/IS-programming)
+[Задание](https://drive.google.com/drive/folders/1evFNFQOdeiMIVPAOOo4XLB-VJRvSZvD3)
