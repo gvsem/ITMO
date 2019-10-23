@@ -11,11 +11,9 @@
 
 [Конспект ИТМО](http://neerc.ifmo.ru/wiki/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)
 
-[Материалы от лектора](https://neerc.ifmo.ru/teaching/disalgo/discrete/)
+[Сайт с материалами](https://neerc.ifmo.ru/teaching/disalgo/discrete/)
 
 [Телеграм чат от Антона](https://t.me/discretmath)  [Группа ВК](https://vk.com/disalgo)
-
-[Сайт с материалами](http://neerc.ifmo.ru/teaching/disalgo/)
 
 На лекциях могут быть внезапные опросы. Дополнительно есть необходимость доказывать (или догугливать) некоторый материал.
 
@@ -41,6 +39,12 @@
 
 alexander1193935@gmail.com, tg: a1_x_3r
 
+**Типовой расчет**
+
+[Задания](https://neerc.ifmo.ru/teaching/disalgo/discrete/autumn/hw1.pdf)
+
+[Результаты(https://docs.google.com/spreadsheets/d/1yS-yLMXZBWBikPZ73rZmauR9cfSqg6OoxwtR2uULUgc/edit#gid=0)
+
 > **Домашнее задание на 28.09:**
 >
 > [Папка преподавателя](https://drive.google.com/drive/folders/1YBCxu1Vg-vWvaVbzmckRuvWFs6jlnJzA)
@@ -56,3 +60,6 @@ alexander1193935@gmail.com, tg: a1_x_3r
 > В задачнике - 1.7.4), 1.8.2), 1.10.8), 1.11.(12,18), 1.18.1)
 >
 > [Файл 1](../Files/Задачник%20Теория%20множеств.pdf), [Файл 2](../Files/1568655347489_ДЗ%20Теория%20множеств.pdf), [Папка преподавателя](https://drive.google.com/drive/folders/1YBCxu1Vg-vWvaVbzmckRuvWFs6jlnJzA)
+
+
+
