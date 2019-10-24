@@ -42,8 +42,7 @@ alexander1193935@gmail.com, tg: a1_x_3r
 **Типовой расчет**
 
 [Задания](https://neerc.ifmo.ru/teaching/disalgo/discrete/autumn/hw1.pdf)
-
-[Результаты(https://docs.google.com/spreadsheets/d/1yS-yLMXZBWBikPZ73rZmauR9cfSqg6OoxwtR2uULUgc/edit#gid=0)
+[Результаты](https://docs.google.com/spreadsheets/d/1yS-yLMXZBWBikPZ73rZmauR9cfSqg6OoxwtR2uULUgc/edit#gid=0)
 
 > **Домашнее задание на 28.09:**
 >
