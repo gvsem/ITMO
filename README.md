@@ -3,7 +3,7 @@
 ## Учебные полезности
 
 Учебная документация:
-* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Расписание занятий](Timetable.md#Расписание) *изменения от 02.10*
+* [Расписание занятий](Timetable.md#Расписание)
 * [Список экзаменов](Timetable.md#Экзамены)
 
 Учебные дисциплины:
@@ -17,7 +17,6 @@
 
 Документы:
 * [Список группы](GroupList.md)
-* [Очереди](Queue.md)
 * [Диск потока](https://drive.google.com/drive/folders/1fC6WB74TOPxm7cGoJRpLWFFAYl6r1nQl)
 * [Диск группы](https://drive.google.com/drive/folders/1-vDZS3wehIW1l_QkGFHEEHH3K2wVaMKx)
 * [Конспекты ИТМО](http://neerc.ifmo.ru/wiki/)
