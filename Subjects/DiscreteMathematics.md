@@ -39,6 +39,8 @@
 
 alexander1193935@gmail.com, tg: a1_x_3r
 
+[Папка преподавателя](https://drive.google.com/drive/folders/1YBCxu1Vg-vWvaVbzmckRuvWFs6jlnJzA)
+
 **Типовой расчет**
 
 [Задания](https://neerc.ifmo.ru/teaching/disalgo/discrete/autumn/hw1.pdf)
@@ -47,22 +49,4 @@ alexander1193935@gmail.com, tg: a1_x_3r
 **Первый коллоквиум**
 
 [Вопросы](https://neerc.ifmo.ru/teaching/disalgo/discrete/autumn/questions1.pdf)
-
-> **Домашнее задание на 28.09:**
->
-> [Папка преподавателя](https://drive.google.com/drive/folders/1YBCxu1Vg-vWvaVbzmckRuvWFs6jlnJzA)
->
-> Д/З: задачи 3 (номера 1-3 полностью)
-
-> **Домашнее задание на 21.09:**
->
-> Задачи 1: 1.(а), 2.3)(а-е), 3.(а-е), 6.2.5)
->
-> Задачи 2: 1.(б,в), 4.б), 6.30.б), 8.b.ж)
->
-> В задачнике - 1.7.4), 1.8.2), 1.10.8), 1.11.(12,18), 1.18.1)
->
-> [Файл 1](../Files/Задачник%20Теория%20множеств.pdf), [Файл 2](../Files/1568655347489_ДЗ%20Теория%20множеств.pdf), [Папка преподавателя](https://drive.google.com/drive/folders/1YBCxu1Vg-vWvaVbzmckRuvWFs6jlnJzA)
-
-
 
