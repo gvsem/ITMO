@@ -39,6 +39,8 @@
 
 alexander1193935@gmail.com, tg: a1_x_3r
 
+[Зачётные баллы](https://docs.google.com/spreadsheets/d/1Y-ugfh9a6-SXGUijYjwVvoAAgTGK5ACvodppgKimd-Q/edit#gid=0)
+
 [Папка преподавателя](https://drive.google.com/drive/folders/1YBCxu1Vg-vWvaVbzmckRuvWFs6jlnJzA)
 
 **Типовой расчет**
