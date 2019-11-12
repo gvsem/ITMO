@@ -17,4 +17,6 @@
 
 **Преподаватель:** Баева Дарья Игоревна
 
+[Баллы](https://docs.google.com/spreadsheets/d/1BMRHimS4Ioo5cWX1yZdHFsSyViR_J2h8rhL8Wl_x3og/edit#gid=0)
+
 [Задание](https://drive.google.com/drive/folders/1evFNFQOdeiMIVPAOOo4XLB-VJRvSZvD3)
