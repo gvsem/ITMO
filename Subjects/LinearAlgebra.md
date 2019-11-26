@@ -23,6 +23,8 @@ moskalenko.mary@gmail.com
 
 [Домашние задания](http://mathdep.ifmo.ru/mmtp)
 
+[Зачётные баллы](https://docs.google.com/spreadsheets/d/1grb8wYBVzP2g5P3Fp6b8QyE2cTGYz3UuOP5G1Dn0MvA/edit#gid=147022077)
+
 Регулярные д/з, есть к/р, два рубежных тестирования
 
 [Папка для д/з](https://drive.google.com/drive/folders/12qq0EZxhPmB3T7SGwU3zkaa38--JE4Ql)
