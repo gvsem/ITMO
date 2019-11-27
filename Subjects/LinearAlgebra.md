@@ -27,7 +27,9 @@ moskalenko.mary@gmail.com
 
 Регулярные д/з, есть к/р, два рубежных тестирования
 
-[Папка для д/з](https://drive.google.com/drive/folders/12qq0EZxhPmB3T7SGwU3zkaa38--JE4Ql)
+[Папка для д/з (раньше)](https://drive.google.com/drive/folders/12qq0EZxhPmB3T7SGwU3zkaa38--JE4Ql)
+
+[Формы для д/з](https://docs.google.com/spreadsheets/d/1HzKhlyKjJUZpGQxUlI_8oVpJBgZ4Ri-W19wy8E6J4Y8/edit?usp=drivesdk)
 
 ### Лабы
 
