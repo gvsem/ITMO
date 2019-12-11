@@ -24,7 +24,7 @@
 
 [**Типовой расчет №1**](https://drive.google.com/open?id=1olA9Kf1almlR_zRK3hQAlGUYDU_vOeU6)
 
-[**Типовой расчет №2**](https://drive.google.com/open?id=1c92DYzeT6jd_RyLxmprJpl8LtQJRcJPv)
+[**Типовой расчет №2**](../Files/матан_типовик_2.pdf)
 
 [Необязательные домашние задания](https://docs.google.com/document/d/100B2GhiiPc6GhrxP9IZQlGW6mHGH8Zi5smw23AMiaHU/edit)
 
