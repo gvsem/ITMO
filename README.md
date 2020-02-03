@@ -2,18 +2,20 @@
 
 ## Учебные полезности
 
+Учебные дисциплины:
+* [Алгоритмы и структуры данных](Subjects/Algorithms.md)
+* [Базы данных](Subjects/Databases.md)
+* [Бизнес-модели основных секторов инновационной экономики](Subjects/BusinessModels.md)
+* [Дискретная математика](Subjects/DiscreteMathematics.md)
+* [Компьютерная геометрия и графика](Subjects/ComputerGeometryAndGraphics.md)
+* [Математический анализ](Subjects/MathematicalAnalysis.md)
+* [Программирование](Subjects/Programming.md)
+* [Специальные разделы физики](Subjects/Physics.md)
+
 Учебная документация:
 * [Расписание занятий](Timetable.md#Расписание)
 * [Список экзаменов](Timetable.md#Экзамены)
-
-Учебные дисциплины:
-* [Алгоритмы и структуры данных](Subjects/Algorithms.md)
-* [Архитектура ЭВМ](Subjects/ComputerArchitecture.md)
-* [Введение в цифровую культуру и программирование](Subjects/DigitalCultureIntroduction.md)
-* [Дискретная математика](Subjects/DiscreteMathematics.md)
-* [Линейная алгебра](Subjects/LinearAlgebra.md)
-* [Математический анализ](Subjects/MathematicalAnalysis.md)
-* [Программирование](Subjects/Programming.md)
+* [Архив учебных дисциплин](Subjects/Archive/README.md)
 
 Документы:
 * [Список группы](GroupList.md)
