@@ -13,6 +13,8 @@
 
 **Преподаватель:** Баева Дарья Игоревна
 
+[Задания](https://drive.google.com/open?id=1pn6YN9MN8I01G1Bz-6saimffKrQ4Zyc7)
+
 ## 1 семестр
 ### Лекции
 
