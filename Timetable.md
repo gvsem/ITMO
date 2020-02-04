@@ -1,5 +1,5 @@
 
-## Семестр 1
+## Семестр 2
 
 ### Расписание
 
@@ -7,42 +7,35 @@
 
 |№| Понедельник | Вторник | Среда | Четверг | Пятница | Суббота |
 | ----- | ------ |------ |------ |------ |------ |------ |
-| | Ломо | Кронва | Кронва | Ломо | Кронва | Кронва |
-| 1. 8:20 - 9:50 | | **Л** [Дискретная математика](Subjects/DiscreteMathematics.md) *466* | | | - | ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) **Лаб** [Программирование](Subjects/Programming.md) *237* |
-| 2. 10:00 - 11:30| **П** Иностранный язык *sp* | **Л** [Алгоритмы и структуры данных](Subjects/Algorithms.md) *466* | | **П** Иностранный язык *sp* | **Л** [Программирование](Subjects/Programming.md) *285* | ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) **Лаб** [Дискретная математика](Subjects/DiscreteMathematics.md) *236* |
-| 3. 11:40 - 13:10| **Л** [Линейная алгебра](Subjects/LinearAlgebra.md) *1121* | ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) **П** [Введение в цифровую культуру и программирование](Subjects/DigitalCultureIntroduction.md) *230* | | | **Л** [Математический анализ](Subjects/MathematicalAnalysis.md) *285* | |
-| 4. 13:30 - 15:00| **Л** [Линейная алгебра](Subjects/LinearAlgebra.md) *1121* | | **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *313* | |  | |
-| 5. 15:20 - 16:50 | ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) **П** [Линейная алгебра](Subjects/LinearAlgebra.md) *1122* | | **Л** [Архитектура ЭВМ](Subjects/ComputerArchitecture.md) *100* | | | |
+| | Ломо / ГК | ГК | ГК | Ломо / ГК | Биржа | Кронва |
+| 1. 8:20 - 9:50 | | **Л** [Программирование](Subjects/Programming.md) *285* | | | - | |
+| 2. 10:00 - 11:30| **П** Иностранный язык *sp* | **Л** [Базы данных](Subjects/Databases.md) *466* | **П** [Базы данных](Subjects/Databases.md) *325* | **П** Иностранный язык *sp* |  | **Лаб** [Дискретная математика](Subjects/DiscreteMathematics.md) *325* |
+| 3. 11:40 - 13:10| ПЕРЕХОД | **Л** [Бизнес-модели основных секторов инновационной экономики](Subjects/BusinessModels.md) *285* | **П** [Базы данных](Subjects/Databases.md) *325* | ПЕРЕХОД | **Л** [Специальные разделы физики](Subjects/Physics.md) *550* | **Лаб** [Дискретная математика](Subjects/DiscreteMathematics.md) *325* |
+| 4. 13:30 - 15:00|  **Л** [Дискретная математика](Subjects/DiscreteMathematics.md) *466* |  **П** [Бизнес-модели основных секторов инновационной экономики](Subjects/BusinessModels.md) *329* |  **Лаб** [Алгоритмы и структуры данных](Subjects/Algorithms.md) *325* | **Л** [Математический анализ](Subjects/MathematicalAnalysis.md) *285* | **Лаб** [Специальные разделы физики](Subjects/Physics.md) *535*  | **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *319* |
+| 5. 15:20 - 16:50 | **Л** [Алгоритмы и структуры данных](Subjects/Algorithms.md) *466* | | **Лаб** [Алгоритмы и структуры данных](Subjects/Algorithms.md) *325* | | | |
 | 6. 17:00 - 18:30 | | |  | | | |
 
 
 Чётная неделя (2, 4, 6, 8...)
 
 |№| Понедельник | Вторник | Среда | Четверг | Пятница | Суббота |
-| ------ | ------ |------ |------ |------ |------ |------ |
-|  | Ломо | Кронва | Кронва | Ломо | Кронва | Кронва |
-| 1. 8:20 - 9:50 | | | | | **Л** [Введение в цифровую культуру и программирование](Subjects/DigitalCultureIntroduction.md) *466* | ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) **Лаб** [Программирование](Subjects/Programming.md) *237* |
-| 2. 10:00 - 11:30 | **П** Иностранный язык *sp* | | | **П** Иностранный язык *sp* | **Л** [Программирование](Subjects/Programming.md) *285* | ![#0015ff](https://placehold.it/15/0015ff/000000?text=+)**Лаб** [Дискретная математика](Subjects/DiscreteMathematics.md) *236* |
-| 3. 11:40 - 13:10 | **Л** [Линейная алгебра](Subjects/LinearAlgebra.md) *1223* | ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) **Лаб** [Алгоритмы и структуры данных](Subjects/Algorithms.md) *240* |  | | **Л** [Математический анализ](Subjects/MathematicalAnalysis.md) *285* | |
-| 4. 13:30 - 15:00 | ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) **П** [Линейная алгебра](Subjects/LinearAlgebra.md) *1121* | **Лаб** [Алгоритмы и структуры данных](Subjects/Algorithms.md) *240* | ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) **Лаб** [Архитектура ЭВМ](Subjects/ComputerArchitecture.md) *325* | | | |
-| 5. 15:20 - 16:50 | | | **Л** [Архитектура ЭВМ](Subjects/ComputerArchitecture.md) *100* | | | |
-| 6. 17:00 - 18:30 | | | **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *313* | | | |
+| ----- | ------ |------ |------ |------ |------ |------ |
+| | Ломо / ГК | ГК | ГК | Ломо / ГК | Биржа | Кронва |
+| 1. 8:20 - 9:50 | | **Л** [Программирование](Subjects/Programming.md) *285* | | | - | |
+| 2. 10:00 - 11:30| **П** Иностранный язык *sp* | **Л** [Базы данных](Subjects/Databases.md) *466* |  | **П** Иностранный язык *sp* |  | **Лаб** [Программирование](Subjects/Programming.md) *151* |
+| 3. 11:40 - 13:10| | **Лаб** [Компьютерная графика и геометрия](Subjects/ComputerGeometryAndGraphics.md) *326* | | ПЕРЕХОД | **Л** [Специальные разделы физики](Subjects/Physics.md) *550* | **Лаб** [Программирование](Subjects/Programming.md) *151*  |
+| 4. 13:30 - 15:00| | **Лаб** [Компьютерная графика и геометрия](Subjects/ComputerGeometryAndGraphics.md) *326* |  | **Л** [Компьютерная графика и геометрия](Subjects/ComputerGeometryAndGraphics.md) *285* | **П** [Специальные разделы физики](Subjects/Physics.md) *535*  | **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *314* |
+| 5. 15:20 - 16:50 | | |  | **Л** [Математический анализ](Subjects/MathematicalAnalysis.md) *285* | | |
+| 6. 17:00 - 18:30 | | |  | | | |
+
 
 ### Экзамены
 
-* [Линейная алгебра](Subjects/LinearAlgebra.md)
-* [Математический анализ](Subjects/MathematicalAnalysis.md)
-* [Дискретная математика](Subjects/DiscreteMathematics.md)
-* [Алгоритмы и структуры данных](Subjects/Algorithms.md)
-
-## Семестр 2
-
-### Экзамены(-)
-
-* [~~Линейная алгебра~~](Subjects/LinearAlgebra.md)
 * [Математический анализ](Subjects/MathematicalAnalysis.md)
 * [Дискретная математика](Subjects/DiscreteMathematics.md)
 * [**Бизнес-модели основных секторов инновационной экономики**](Subjects/InnovativeEconomics.md)
 * [Алгоритмы и структуры данных](Subjects/Algorithms.md)
 * [**Программирование**](Subjects/Programming.md)
 * [**Базы данных**](Subjects/Databases.md)
+
+* Дифф. зачет: [**Специальные разделы физики**](Subjects/Physics.md)
