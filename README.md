@@ -3,14 +3,17 @@
 ## Учебные полезности
 
 Учебные дисциплины:
-* [Алгоритмы и структуры данных](Subjects/Algorithms.md)
-* [Базы данных](Subjects/Databases.md)
-* [Бизнес-модели основных секторов инновационной экономики](Subjects/BusinessModels.md)
-* [Дискретная математика](Subjects/DiscreteMathematics.md)
-* [Компьютерная геометрия и графика](Subjects/ComputerGeometryAndGraphics.md)
-* [Математический анализ](Subjects/MathematicalAnalysis.md)
-* [Программирование](Subjects/Programming.md)
-* [Специальные разделы физики](Subjects/Physics.md)
+* **Э** [Алгоритмы и структуры данных](Subjects/Algorithms.md)
+* **Э** [Базы данных](Subjects/Databases.md)
+* **Э** [Бизнес-модели основных секторов инновационной экономики](Subjects/BusinessModels.md)
+* **Э** [Дискретная математика](Subjects/DiscreteMathematics.md)
+* **=** [Компьютерная геометрия и графика](Subjects/ComputerGeometryAndGraphics.md)
+* **Э** [Математический анализ](Subjects/MathematicalAnalysis.md)
+* **Э** [Программирование](Subjects/Programming.md)
+* **$** [Специальные разделы физики](Subjects/Physics.md)
+
+* **=** [Английский язык](https://vk.cc/ak65kn)
+* **=** [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
 
 Учебная документация:
 * [Расписание занятий](Timetable.md#Расписание)
@@ -25,7 +28,6 @@
 
 Учебные ссылки:
 * [ИСУ](https://isu.ifmo.ru/)
-* [Запись на физру](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
 
 ## Новости и мероприятия группы
 
