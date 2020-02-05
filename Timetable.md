@@ -23,8 +23,8 @@
 | | Ломо / ГК | ГК | ГК | Ломо / ГК | Биржа | Кронва |
 | 1. 8:20 - 9:50 | | **Л** [Программирование](Subjects/Programming.md) *285* | | | - | |
 | 2. 10:00 - 11:30| **П** Иностранный язык *sp* | **Л** [Базы данных](Subjects/Databases.md) *466* |  | **П** Иностранный язык *sp* |  | **Лаб** [Программирование](Subjects/Programming.md) *151* |
-| 3. 11:40 - 13:10| | **Лаб** [Компьютерная графика и геометрия](Subjects/ComputerGeometryAndGraphics.md) *326* | | ПЕРЕХОД | **Л** [Специальные разделы физики](Subjects/Physics.md) *550* | **Лаб** [Программирование](Subjects/Programming.md) *151*  |
-| 4. 13:30 - 15:00| | **Лаб** [Компьютерная графика и геометрия](Subjects/ComputerGeometryAndGraphics.md) *326* |  | **Л** [Компьютерная графика и геометрия](Subjects/ComputerGeometryAndGraphics.md) *285* | **П** [Специальные разделы физики](Subjects/Physics.md) *535*  | **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *314* |
+| 3. 11:40 - 13:10| | **Лаб** [Компьютерная геометрия и графика](Subjects/ComputerGeometryAndGraphics.md) *326* | | ПЕРЕХОД | **Л** [Специальные разделы физики](Subjects/Physics.md) *550* | **Лаб** [Программирование](Subjects/Programming.md) *151*  |
+| 4. 13:30 - 15:00| | **Лаб** [Компьютерная геометрия и графика](Subjects/ComputerGeometryAndGraphics.md) *326* |  | **Л** [Компьютерная геометрия и графика](Subjects/ComputerGeometryAndGraphics.md) *285* | **П** [Специальные разделы физики](Subjects/Physics.md) *535*  | **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *314* |
 | 5. 15:20 - 16:50 | | |  | **Л** [Математический анализ](Subjects/MathematicalAnalysis.md) *285* | | |
 | 6. 17:00 - 18:30 | | |  | | | |
 
@@ -33,7 +33,7 @@
 
 * [Математический анализ](Subjects/MathematicalAnalysis.md)
 * [Дискретная математика](Subjects/DiscreteMathematics.md)
-* [**Бизнес-модели основных секторов инновационной экономики**](Subjects/InnovativeEconomics.md)
+* [**Бизнес-модели основных секторов инновационной экономики**](Subjects/BusinessModels.md)
 * [Алгоритмы и структуры данных](Subjects/Algorithms.md)
 * [**Программирование**](Subjects/Programming.md)
 * [**Базы данных**](Subjects/Databases.md)
