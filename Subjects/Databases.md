@@ -21,7 +21,7 @@
 [~Лабы от Фреди~](https://github.com/InRedikaWB/is-arch-lect/blob/master/1-sem/database%2016-17/Labs.md)
 
 
-**БД для практик:** 10.11.0.5/sqlexpress; student; 123654
+**БД для практик:** 10.11.0.5\sqlexpress; student; 123654
 
 [Инструкции по установке](../Files/DB/DBGuidelines.docx)
 
