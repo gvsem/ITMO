@@ -35,3 +35,5 @@
 [Инструкции по установке](../Files/DB/DBGuidelines.docx)
 
 [Лабораторная работа №1](../Files/DB/DBLab1.pdf)
+
+[Лабораторная работа №2](../Files/DB/DBLab2.pdf)
