@@ -5,7 +5,6 @@
 Учебные дисциплины:
 * **Э** [Алгоритмы и структуры данных](Subjects/Algorithms.md)
 * **Э** [Базы данных](Subjects/Databases.md)
-* **Э** [Бизнес-модели основных секторов инновационной экономики](Subjects/BusinessModels.md)
 * **Э** [Дискретная математика](Subjects/DiscreteMathematics.md)
 * **=** [Компьютерная геометрия и графика](Subjects/ComputerGeometryAndGraphics.md)
 * **Э** [Математический анализ](Subjects/MathematicalAnalysis.md)
