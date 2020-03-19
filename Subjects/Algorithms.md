@@ -15,6 +15,8 @@
 
 **Преподаватель:** Збань Илья
 
+izban@mail.ru
+
 [Баллы](https://docs.google.com/spreadsheets/d/1j3N3L9A8RZX56ird2hINcRD-bkXuU8yLa9TPkXq2CVU/edit#gid=192058897)
 
 [Контесты](https://neerc.ifmo.ru/p)
