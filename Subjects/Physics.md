@@ -11,9 +11,11 @@
 
 **Почта:** muzychenko@itmo.ru
 
-[Лекция 6](https://www.youtube.com/watch?v=RLveFvcPrUc&list=LLIJAS2tqFPfuw6USi7Z2Qmg)
+[Лекция 6](https://www.youtube.com/watch?v=RLveFvcPrUc)
 
-[Лекция 7](https://www.youtube.com/watch?v=tf5i-MWSeWc&feature=youtu.be)
+[Лекция 7](https://www.youtube.com/watch?v=tf5i-MWSeWc)
+
+
 
 ---
 
