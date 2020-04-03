@@ -15,6 +15,8 @@
 
 [Типовик 1](https://books.ifmo.ru/file/pdf/1471.pdf)
 
+[Форма для типовика 1](https://docs.google.com/forms/d/e/1FAIpQLSfLhE24Dx5D4zYfKRNCj-GtWt-ET-Tkw_HVeUxqgVO04vf9WQ/viewform)
+
 ## 1 семестр
 ### Лекции
 
