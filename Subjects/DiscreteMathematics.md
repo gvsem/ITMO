@@ -9,9 +9,13 @@
 
 **Преподаватель:** Буланова Нина Сергеевна
 
+[Таблица лектора](https://docs.google.com/spreadsheets/d/1Y-ugfh9a6-SXGUijYjwVvoAAgTGK5ACvodppgKimd-Q/edit#gid=688281904)
+
 ### Лабы
 
 **Преподаватель:** Бебяков Александр Михайлович
+
+[Таблица практика](https://docs.google.com/spreadsheets/d/1e4I1oARsZeEoliPsrw2GKnWjk7R6ZJC58tqG3xH263U/edit#gid=0)
 
 ## 1 семестр
 ### Лекции
