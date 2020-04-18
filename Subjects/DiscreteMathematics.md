@@ -11,6 +11,8 @@
 
 [Таблица лектора](https://docs.google.com/spreadsheets/d/1Y-ugfh9a6-SXGUijYjwVvoAAgTGK5ACvodppgKimd-Q/edit#gid=688281904)
 
+[Материалы к лекциям](https://docs.google.com/spreadsheets/d/1L2ja62S3xaAG9tGxOjSkV_20swbb0-o051aTwjcLyiA/edit#gid=1158159178)
+
 ### Лабы
 
 **Преподаватель:** Бебяков Александр Михайлович
