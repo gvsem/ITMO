@@ -9,6 +9,8 @@
 
 **Преподаватель:** Исаева Татьяна Тимофеевна
 
+[Группа с материалами](https://vk.com/club193570210)
+
 ### Практика
 
 **Преподаватель:** Тертычный Владимир Юрьевич
@@ -16,6 +18,12 @@
 [Типовик 1](https://books.ifmo.ru/file/pdf/1471.pdf)
 
 [Форма для типовика 1](https://docs.google.com/forms/d/e/1FAIpQLSfLhE24Dx5D4zYfKRNCj-GtWt-ET-Tkw_HVeUxqgVO04vf9WQ/viewform)
+
+#### Дистанционные практики
+
+[11.04. Несобственные интегралы 2го рода](../Files/Tertychny/Tertychny-04-11.pdf)
+
+[18.04. Кратные интегралы. Двойной интеграл](../Files/Tertychny/Tertychny-04-18.pdf)
 
 ## 1 семестр
 ### Лекции
