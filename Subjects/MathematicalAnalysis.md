@@ -19,7 +19,11 @@
 
 [Форма для типовика 1](https://docs.google.com/forms/d/e/1FAIpQLSfLhE24Dx5D4zYfKRNCj-GtWt-ET-Tkw_HVeUxqgVO04vf9WQ/viewform)
 
-#### Дистанционные практики
+#### Дистанционные лекции и практики
+
+[Группа Т.Т. Исаевой](https://vk.com/club193570210)
+
+[Некоторые записи дистанционных лекций](https://vk.com/mayatin)
 
 [11.04. Несобственные интегралы 2го рода](../Files/Tertychny/Tertychny-04-11.pdf)
 
