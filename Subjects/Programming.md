@@ -9,6 +9,8 @@
 
 **Преподаватель:** Хвастунов Александр Павлович
 
+[Лекции](https://drive.google.com/drive/folders/1tzqthKbqVosJhoZFaAvG7jZvCfJ8ithB)
+
 ### Лабы
 
 **Преподаватель:** Баева Дарья Игоревна
