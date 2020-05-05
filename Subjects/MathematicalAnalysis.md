@@ -29,6 +29,7 @@
 [Форма для типовика 1](https://docs.google.com/forms/d/e/1FAIpQLSfLhE24Dx5D4zYfKRNCj-GtWt-ET-Tkw_HVeUxqgVO04vf9WQ/viewform)
 
 [Типовик 2](https://books.ifmo.ru/file/pdf/888.pdf)
+[Форма для типовика 2](https://docs.google.com/forms/d/e/1FAIpQLSfwKtjdfqN5Igmsuh4xGU3PgtU-31s_Mgp3kTeJf04BFDxSRQ/viewform)
 
 #### Дистанционные практики
 
