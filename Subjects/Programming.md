@@ -17,6 +17,10 @@
 
 [Задания](https://drive.google.com/open?id=1pn6YN9MN8I01G1Bz-6saimffKrQ4Zyc7)
 
+[Форма для записи на защиту лаб](https://docs.google.com/forms/d/e/1FAIpQLSdr1vFyTW_WI_SLir2xmfBNWcMUdcdGnRLLrn64_oWa6b1yxw/viewform)
+
+[Расписание защит](https://docs.google.com/spreadsheets/d/13_RSdBB5DG9eTe-snq8MAQCM2erxYUfptbWyGzAg8No/edit)
+
 ## 1 семестр
 ### Лекции
 
