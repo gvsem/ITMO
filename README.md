@@ -20,6 +20,7 @@
 * [Архив учебных дисциплин](Subjects/Archive/README.md)
 
 Документы:
+* [Таблица с дедлайнами](https://docs.google.com/spreadsheets/d/1cRn8rUsxOMyPOczXcyuTHq2O2s8YiK2KlF5f5xwN25g/edit)
 * [Список группы](GroupList.md)
 * [Диск потока](https://drive.google.com/drive/folders/1fC6WB74TOPxm7cGoJRpLWFFAYl6r1nQl)
 * [Диск группы](https://drive.google.com/drive/folders/1-vDZS3wehIW1l_QkGFHEEHH3K2wVaMKx)
