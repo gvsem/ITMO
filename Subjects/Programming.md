@@ -9,7 +9,11 @@
 
 **Преподаватель:** Хвастунов Александр Павлович
 
-[Лекции](https://drive.google.com/drive/folders/1tzqthKbqVosJhoZFaAvG7jZvCfJ8ithB)
+[Live лекции](https://www.twitch.tv/hvost239)
+
+[Записи лекций](https://www.youtube.com/playlist?list=PLj7ewET2KEJxiL5r2EwHgc_WfO995uFn2)
+
+[Презентации](https://drive.google.com/drive/folders/1tzqthKbqVosJhoZFaAvG7jZvCfJ8ithB)
 
 ### Лабы
 

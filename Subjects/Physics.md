@@ -20,9 +20,7 @@
 |---|---|---|---|---|---|---|---|
 |6|24|4|4|3|10|12|63|
 
-[Лекция 6](https://www.youtube.com/watch?v=RLveFvcPrUc)
-
-[Лекция 7](https://www.youtube.com/watch?v=tf5i-MWSeWc)
+[Записи лекций и практик](https://www.youtube.com/playlist?list=PLj7ewET2KEJxNgVZZOdBfeuhvVgitw8SI)
 
 >> **Домашнее задание к 01.05**
 >>

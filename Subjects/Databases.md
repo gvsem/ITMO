@@ -13,7 +13,9 @@
 1. Дейт К. Дж. Введение в системы баз данных.
 2. Т.Коннолли, К.Бегг. Базы данных. Проектирование, реализация и сопровождение. Теория и практика.
 
-[Лекция 6](https://www.youtube.com/watch?v=ttUsBJRwiC4)
+[Live лекции](https://www.twitch.tv/mayatin)
+
+[Записи лекций](https://www.youtube.com/channel/UCiEwHCvxieQi0Q-SAEtoa1A)
 
 [~Лекции от Фреди~](https://github.com/InRedikaWB/is-arch-lect/blob/master/1-sem/database%2016-17/Базы%20данных%20Лекции.md)
 

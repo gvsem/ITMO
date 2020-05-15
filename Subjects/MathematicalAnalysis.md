@@ -11,7 +11,8 @@
 
 [Группа с материалами](https://vk.com/club193570210)
 
-[Некоторые записи дистанционных лекций](https://vk.com/mayatin)
+[Записи лекций](https://www.youtube.com/playlist?list=PLj7ewET2KEJyxC7htu6MD4FNUPng2KC1e)
+
 
 #### Конспекты дистанционных лекций
 

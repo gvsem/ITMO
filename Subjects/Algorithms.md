@@ -9,6 +9,10 @@
 
 **Преподаватель:** Буланова Нина Сергеевна
 
+[Live лекции](https://www.twitch.tv/ninokfox)
+
+[Записи лекций](https://www.youtube.com/channel/UC6QpOmCIkQnAgQGusIbSgYw)
+
 [План лекций](https://docs.google.com/spreadsheets/d/1L2ja62S3xaAG9tGxOjSkV_20swbb0-o051aTwjcLyiA/edit#gid=1967292923)
 
 ### Лабы
