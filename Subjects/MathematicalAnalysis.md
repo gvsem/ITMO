@@ -13,6 +13,8 @@
 
 [Записи лекций](https://www.youtube.com/playlist?list=PLj7ewET2KEJyxC7htu6MD4FNUPng2KC1e)
 
+[Вопросы к экзамену](../Files/Matan-Exam-Sem2.pdf)
+
 
 #### Конспекты дистанционных лекций
 
