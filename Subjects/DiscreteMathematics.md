@@ -23,6 +23,10 @@
 
 [Таблица практика](https://docs.google.com/spreadsheets/d/1e4I1oARsZeEoliPsrw2GKnWjk7R6ZJC58tqG3xH263U/edit#gid=0)
 
+[**Коллок 4**](https://docs.google.com/document/d/1SjG9ujYxBZtwMmyuqG_ycMHNggnitgBsdRoV7wSOCsw/edit)
+
+[**Типовик 4**](https://neerc.ifmo.ru/teaching/disalgo/discrete/spring/hw4.pdf)
+
 ## 1 семестр
 ### Лекции
 
