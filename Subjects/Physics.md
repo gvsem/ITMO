@@ -11,6 +11,7 @@
 
 **Почта:** muzychenko@itmo.ru
 
+[Баллы](https://docs.google.com/spreadsheets/d/1lfC_OR4yt5PPZ91Q2tzYvTk3B0_PI5QZAikuykuCde0/edit#gid=0)
 
 |Лаба 1| Лаба 2|Лаба 3| Моделирование 1| Тесты 1 |Кр 1| ВСЕГО | 
 |---|---|---|---|---|---|---|
