@@ -30,6 +30,19 @@
 * [ИСУ](https://isu.ifmo.ru/)
 * [ЦДО](https://de.ifmo.ru/)
 
+## Сессия. Второй семестр
+
+| Дата экзамена | Дата консультации | Предмет | Вопросы | Комментарий |
+| ----- | ------ | ------ |------ |------ |
+| 18 июня, 10:00 | 17 июня, 18:40 | [Математический анализ](Subjects/MathematicalAnalysis.md) | [Список](Files/Matan-Exam-Sem2.pdf) | |
+| 23 июня, 10:00 | 22 июня, 17:00 | [Алгоритмы и структуры данных](Subjects/Algorithms.md) | [Список](http://neerc.ifmo.ru/teaching/disalgo/algo/spring/algo2019.pdf) | Можно сдать раньше. |
+| 25 июня, 10:00 | -- | [Специальные разделы физики](Subjects/Physics.md) | [---](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |  |
+| 27 июня, 10:00 | 26 июня, 17:00 | [Базы данных](Subjects/Databases.md) | [Список](Files/DB/ExamDB.pdf) |  |
+| 1 июля, 10:00 | 30 июня, 17:00 | [Дискретная математика](Subjects/DiscreteMathematics.md) | [Список](http://neerc.ifmo.ru/teaching/disalgo/discrete/spring/dm2.pdf) | Можно сдать раньше. |
+| 6 июля, 10:00 | 4 июля, 17:00 | [Программирование](Subjects/Programming.md) | [---](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |  |
+
+
+
 ## Новости и мероприятия группы
 
 > ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) *дедлайн*  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) *обратите внимание*
