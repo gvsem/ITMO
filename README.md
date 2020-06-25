@@ -36,7 +36,7 @@
 | ----- | ------ | ------ |------ |------ |
 | 18 июня, 10:00 | 17 июня, 18:40 | [Математический анализ](Subjects/MathematicalAnalysis.md) | [Список](Files/Matan-Exam-Sem2.pdf) | + 39. Поток + 40. Циркуляция |
 | 23 июня, 10:00 | 22 июня, 17:00 | [Алгоритмы и структуры данных](Subjects/Algorithms.md) | [Список](http://neerc.ifmo.ru/teaching/disalgo/algo/spring/algo2019.pdf) | Можно сдать раньше. |
-| 25 июня, 10:00 | -- | [Специальные разделы физики](Subjects/Physics.md) | [Список](Files/ExamPhys.pdf) |  |
+| 26 июня, 10:00 | -- | [Специальные разделы физики](Subjects/Physics.md) | [Список](Files/ExamPhys.pdf) |  |
 | 27 июня, 10:00 | 26 июня, 17:00 | [Базы данных](Subjects/Databases.md) | [Список](Files/DB/ExamDB.pdf) |  |
 | 1 июля, 10:00 | 30 июня, 17:00 | [Дискретная математика](Subjects/DiscreteMathematics.md) | [Список](http://neerc.ifmo.ru/teaching/disalgo/discrete/spring/dm2.pdf) | Можно сдать раньше. |
 | 6 июля, 10:00 | 4 июля, 17:00 | [Программирование](Subjects/Programming.md) | [Список](Files/ExamProg.pdf) |  |
