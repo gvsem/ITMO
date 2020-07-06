@@ -47,10 +47,3 @@
 
 > ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) *дедлайн*  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) *обратите внимание*
 
-
-|№| Понедельник, 4.05 | Вторник, 5.05 | Среда, 6.05 | Четверг, 7.05 | Пятница, 8.05 | Вторник, 16.06 |
-| ----- | ------ |------ |------ |------ |------ |------ |
-| 2. 10:00 - 11:30| **П** Иностранный язык *sp* | **П** Иностранный язык *sp* | | **Лаб** ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) [Программирование](Subjects/Programming.md) *zoom* | **Лаб** ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) [Дискретная математика](Subjects/DiscreteMathematics.md) *discord* | |
-| 3. 11:40 - 13:10| **Л** [Математический анализ](Subjects/MathematicalAnalysis.md) [*zoom*](https://itmo.zoom.us/j/83380054658) |  | **Л** [Специальные разделы физики](Subjects/Physics.md) *zoom* | **Лаб** ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) [Программирование](Subjects/Programming.md) *zoom* | **Лаб** ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) [Дискретная математика](Subjects/DiscreteMathematics.md) *discord* | **Л** [Специальные разделы физики](Subjects/Physics.md) *zoom* |
-| 4. 13:30 - 15:00|  **ТЕСТ в 13:10** ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) [Дискретная математика](Subjects/DiscreteMathematics.md) | | **П** ![#0015ff](https://placehold.it/15/0015ff/000000?text=+) [Специальные разделы физики](Subjects/Physics.md) *zoom* | **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *no*  | **П** [Математический анализ](Subjects/MathematicalAnalysis.md) *no* | **П** [Специальные разделы физики](Subjects/Physics.md) *zoom*|
-
