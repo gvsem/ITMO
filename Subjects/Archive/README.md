@@ -7,3 +7,12 @@
 * [Архитектура ЭВМ](ComputerArchitecture.md)
 * [Введение в цифровую культуру и программирование](DigitalCultureIntroduction.md)
 * [Линейная алгебра](LinearAlgebra.md)
+
+## 2 семестр
+
+* [Алгоритмы и структуры данных](Subjects/Algorithms.md)
+* [Базы данных](Subjects/Databases.md)
+* [Дискретная математика](Subjects/DiscreteMathematics.md)
+* [Компьютерная геометрия и графика](Subjects/ComputerGeometryAndGraphics.md)
+* [Математический анализ](Subjects/MathematicalAnalysis.md)
+* [Программирование](Subjects/Programming.md)
