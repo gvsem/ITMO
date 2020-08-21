@@ -1,26 +1,29 @@
-# M3101. ИС. ИТиП. ИТМО
+# M3201. ИС. ИТиП. ИТМО
 
 ## Учебные полезности
 
 Учебные дисциплины:
-* **Э** [Алгоритмы и структуры данных](Subjects/Algorithms.md)
-* **Э** [Базы данных](Subjects/Databases.md)
-* **Э** [Дискретная математика](Subjects/DiscreteMathematics.md)
-* **=** [Компьютерная геометрия и графика](Subjects/ComputerGeometryAndGraphics.md)
-* **Э** [Математический анализ](Subjects/MathematicalAnalysis.md)
-* **Э** [Программирование](Subjects/Programming.md)
-* **$** [Специальные разделы физики](Subjects/Physics.md)
 
+* **Э** [Объектно-ориентированное программирование](Subjects/ObjectOrientedProgramming.md)
+* **Э** [Операционные системы](OperatingSystems.md)
+* **Э** [Дополнительные главы высшей математики](HigherMathematicsExtra.md)
+* **Э** [Специальные разделы физики](Subjects/Physics.md)
+* **$** [История](Subjects/History.md)
+* **=** [Теория вероятности](Subjects/ProbabilityTheory.md)
+* **=** [ОГНП: предмет 1](Subjects/Chosen1.md)
+* **=** [ОГНП: предмет 2](Subjects/Chosen2.md)
+* **=** [Безопасность жизнедеятельности](Subjects/Safety.md)
 * **=** [Английский язык](https://vk.cc/ak65kn)
 * **=** [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
+
 
 Учебная документация:
 * [Расписание занятий](Timetable.md#Расписание)
 * [Список экзаменов](Timetable.md#Экзамены)
 * [Архив учебных дисциплин](Subjects/Archive/README.md)
+* [Учебный план](Files/Plan2019.pdf)
 
 Документы:
-* [Таблица с дедлайнами](https://docs.google.com/spreadsheets/d/1cRn8rUsxOMyPOczXcyuTHq2O2s8YiK2KlF5f5xwN25g/edit)
 * [Список группы](GroupList.md)
 * [Диск потока](https://drive.google.com/drive/folders/1fC6WB74TOPxm7cGoJRpLWFFAYl6r1nQl)
 * [Диск группы](https://drive.google.com/drive/folders/1-vDZS3wehIW1l_QkGFHEEHH3K2wVaMKx)
@@ -29,18 +32,6 @@
 Учебные ссылки:
 * [ИСУ](https://isu.ifmo.ru/)
 * [ЦДО](https://de.ifmo.ru/)
-
-## Сессия. Второй семестр
-
-| Дата экзамена | Дата консультации | Предмет | Вопросы | Комментарий |
-| ----- | ------ | ------ |------ |------ |
-| 18 июня, 10:00 | 17 июня, 18:40 | [Математический анализ](Subjects/MathematicalAnalysis.md) | [Список](Files/Matan-Exam-Sem2.pdf) | + 39. Поток + 40. Циркуляция |
-| 23 июня, 10:00 | 22 июня, 17:00 | [Алгоритмы и структуры данных](Subjects/Algorithms.md) | [Список](http://neerc.ifmo.ru/teaching/disalgo/algo/spring/algo2019.pdf) | Можно сдать раньше. |
-| 26 июня, 10:00 | -- | [Специальные разделы физики](Subjects/Physics.md) | [Список](Files/ExamPhys.pdf) |  |
-| 27 июня, 10:00 | 26 июня, 17:00 | [Базы данных](Subjects/Databases.md) | [Список](Files/DB/ExamDB.pdf) |  |
-| 1 июля, 10:00 | 30 июня, 17:00 | [Дискретная математика](Subjects/DiscreteMathematics.md) | [Список](http://neerc.ifmo.ru/teaching/disalgo/discrete/spring/dm2.pdf) | Можно сдать раньше. |
-| 6 июля, 10:00 | 4 июля, 17:00 | [Программирование](Subjects/Programming.md) | [Список](Files/ExamProg.pdf) |  |
-
 
 
 ## Новости и мероприятия группы
