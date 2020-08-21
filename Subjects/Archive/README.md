@@ -10,9 +10,9 @@
 
 ## 2 семестр
 
-* [Алгоритмы и структуры данных](Subjects/Algorithms.md)
-* [Базы данных](Subjects/Databases.md)
-* [Дискретная математика](Subjects/DiscreteMathematics.md)
-* [Компьютерная геометрия и графика](Subjects/ComputerGeometryAndGraphics.md)
-* [Математический анализ](Subjects/MathematicalAnalysis.md)
-* [Программирование](Subjects/Programming.md)
+* [Алгоритмы и структуры данных](Algorithms.md)
+* [Базы данных](Databases.md)
+* [Дискретная математика](DiscreteMathematics.md)
+* [Компьютерная геометрия и графика](ComputerGeometryAndGraphics.md)
+* [Математический анализ](MathematicalAnalysis.md)
+* [Программирование](Programming.md)
