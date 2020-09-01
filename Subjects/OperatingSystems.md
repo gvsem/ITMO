@@ -13,10 +13,13 @@
 
 Смотрите записи эфиров на [YouTube](https://www.youtube.com/c/alexandermayatin)
 
-Некоторые справочные ссылки:
+**Некоторые справочные ссылки:**
 
 * [Группа ВК](https://vk.com/mayatin)
 * [Конспект/Экзамен](https://docs.google.com/document/d/1ywCeuZLNm8hPLbIRfp_qVuOgFM0a5x0MwR1ST97T6yM/edit)
+* [Сайт факультета](https://fitp.itmo.ru)
+
+**Литература:** Тонненбаум, Дейтл, Карпов-Коньков.
 
 
 ### Лабы
