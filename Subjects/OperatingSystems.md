@@ -31,6 +31,8 @@
 
 [Таблица с баллами](https://docs.google.com/spreadsheets/d/1n9YydxIeP9eLmR3dSG5WHvcDCj82FvZ2w8F5NztQ8YM/edit#gid=0)
 
+[Образ системы](https://yadi.sk/d/d48ND4ylz_-0pA?w=1)
+
 Занимайтесь в пятницу в 15:20 в [Zoom](https://us02web.zoom.us/j/8322383175)
 
 ---
