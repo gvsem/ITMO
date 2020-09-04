@@ -33,6 +33,8 @@
 
 [Образ системы](https://yadi.sk/d/d48ND4ylz_-0pA?w=1)
 
+[Учебник по Bash](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
+
 Занимайтесь в пятницу в 15:20 в [Zoom](https://us02web.zoom.us/j/8322383175)
 
 ---
