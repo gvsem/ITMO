@@ -25,3 +25,5 @@
 Занимайтесь в нечётный понедельник в 11:40 x2 в [Zoom](https://itmo.zoom.us/j/8545966049)
 
 [Баллы по практике](https://docs.google.com/spreadsheets/d/1H75MoSvL-165x5aM-p26eFZcY57UYx0gPtOHhvpGYGw/edit?usp=sharing)
+
+[Лабораторная работа №1. INI](../Files/OOP/OOP1.pdf)
