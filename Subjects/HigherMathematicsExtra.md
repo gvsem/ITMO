@@ -11,6 +11,8 @@
 
 [Группа с материалами](https://vk.com/club193548696)
 
+[Записи лекций](https://www.youtube.com/playlist?list=PLj7ewET2KEJxltgdxMv23dKzFmztEno1v)
+
 ### Практика
 
 **Преподаватель:** 
