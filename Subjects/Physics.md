@@ -9,6 +9,7 @@
 
 **Преподаватель:** Музыченко Яна Борисовна
 
+[Записи лекций](https://www.youtube.com/playlist?list=PLj7ewET2KEJyHMgQv9qI4pLtGii3qhkKf)
 
 ## 2 семестр
 ### Лекции. Практика. Лабы
