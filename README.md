@@ -8,7 +8,6 @@
 * **Э** [Операционные системы](Subjects/OperatingSystems.md)
 * **Э** [Дополнительные главы высшей математики](Subjects/HigherMathematicsExtra.md)
 * **Э** [Специальные разделы физики](Subjects/Physics.md)
-* **$** [История](Subjects/History.md)
 * **=** [ОГНП: предмет 1](Subjects/Chosen1.md)
 * **=** [ОГНП: предмет 2](Subjects/Chosen2.md)
 * **=** [Безопасность жизнедеятельности](Subjects/Safety.md)
