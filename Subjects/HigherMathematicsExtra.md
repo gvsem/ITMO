@@ -13,6 +13,8 @@
 
 [Записи лекций](https://www.youtube.com/playlist?list=PLj7ewET2KEJxltgdxMv23dKzFmztEno1v)
 
+[Вопросы к экзамену](../Files/Sem3MathExam.pdf)
+
 ### Практика
 
 **Преподаватель:** Тертычный Владимир Юрьевич
