@@ -13,6 +13,8 @@
 
 [Записи лекций](https://yadi.sk/d/iGz5-Vunb5dKHA?w=1)
 
+[Презентации](https://drive.google.com/drive/folders/1qvI4ni8HoIOSDKjV4QiZ_6zkIS1vuqe3?usp=sharing)
+
 **Рекомендуемая литература**:
 
 * Паттерны проектирования, "банда четырех"
