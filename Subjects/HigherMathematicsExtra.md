@@ -28,3 +28,5 @@
 [Типовик 5](http://mathdep.ifmo.ru/files/library/Tipov6mod.pdf)
 
 [Типовик 6](http://books.ifmo.ru/file/pdf/1076.pdf)
+
+Занимайтесь по пятницам в 17:00 в [Zoom](https://itmo.zoom.us/j/87112011683?pwd=ZWNLMTNkSkFQWmh1MTNudnVVN0FZUT09)
