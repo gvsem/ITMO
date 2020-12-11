@@ -29,6 +29,8 @@
 
 [Типовик 6](http://books.ifmo.ru/file/pdf/1076.pdf)
 
+Загружайте типовики [сюда](https://drive.google.com/drive/folders/1ZG9rgvoKNPObwP3FQ7BxW6dMlNyZ-Tac)
+
 > Гайд по второму типовику от Тертычного:
 > 1) Задание 2 делать НЕ нужно
 > 2) Все остальные здания делать обязательно
