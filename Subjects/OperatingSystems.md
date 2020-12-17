@@ -13,6 +13,8 @@
 
 Смотрите записи эфиров на [YouTube](https://www.youtube.com/c/alexandermayatin)
 
+[Вопросы к экзамену](../Files/OS/OS_Exam.pdf)
+
 **Некоторые справочные ссылки:**
 
 * [Группа ВК](https://vk.com/mayatin)
