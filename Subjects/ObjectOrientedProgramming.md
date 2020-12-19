@@ -13,6 +13,8 @@
 
 [Презентации](https://drive.google.com/drive/folders/1qvI4ni8HoIOSDKjV4QiZ_6zkIS1vuqe3?usp=sharing)
 
+[Вопросы к экзамену](../Files/OOP/OOP_Exam.pdf)
+
 **Рекомендуемая литература**:
 
 * Паттерны проектирования, "банда четырех"
