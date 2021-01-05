@@ -11,6 +11,8 @@
 
 [Записи лекций](https://www.youtube.com/playlist?list=PLj7ewET2KEJyHMgQv9qI4pLtGii3qhkKf)
 
+[Вопросы к экзамену](../Files/Sem3PhysExam.pdf)
+
 [Баллы](https://docs.google.com/spreadsheets/d/1lfC_OR4yt5PPZ91Q2tzYvTk3B0_PI5QZAikuykuCde0/edit#gid=2088771474)
 
 #### Список лаб
