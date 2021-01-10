@@ -36,7 +36,7 @@
 
 | Дата экзамена | Дата консультации | Предмет | Вопросы | Комментарий |
 | ----- | ------ | ------ |------ |------ |
-| 11 января, 10:00 | 9 января, 17:00 | [Объектно-ориентированное программирование](Subjects/ObjectOrientedProgramming.md) | [Список](Files/OOP/OOP_Exam.pdf) |  |
+| 11 января, 10:00 | 9 января, 17:00 | [Объектно-ориентированное программирование](Subjects/ObjectOrientedProgramming.md) | [Список](Files/OOP/OOP_Exam.pdf) | Начало в 9:30  |
 | 15 января, 10:00 | 14 января, 17:00 | [Операционные системы](Subjects/OperatingSystems.md) | [Список](Files/OS/OS_Exam.pdf) |  |
 | 23 января, 10:00 | 22 января, 18:40 | [Дополнительные главы высшей математики](Subjects/HigherMathematicsExtra.md) | [Список](Files/Sem3MathExam.pdf) |  |
 | 28 января, 10:00 | 27 января, 17:00 | [Специальные разделы физики](Subjects/Physics.md) | [Список](Files/Sem3PhysExam.pdf) |  |
