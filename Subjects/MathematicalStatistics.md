@@ -4,7 +4,7 @@
 |---|
 |Экзамен|
 
-[РПД дисциплины](Files/MatStatRPD.pdf)
+[РПД дисциплины](../Files/MatStatRPD.pdf)
 
 ### Лекции
 
@@ -12,9 +12,9 @@
 
 [Группа ВК](https://vk.com/club193548696)
 
-[Вопросы к экзамену](Files/MatStatExam.pdf)
+[Вопросы к экзамену](../Files/MatStatExam.pdf)
 
-[Типовик №1](Files/MatStatTip1.pdf)
+[Типовик №1](../Files/MatStatTip1.pdf)
 
 
 Занимайтесь каждую среду в 11:40
