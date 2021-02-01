@@ -4,16 +4,15 @@
 
 Учебные дисциплины:
 
-* **Э** [Объектно-ориентированное программирование](Subjects/ObjectOrientedProgramming.md)
-* **Э** [Операционные системы](Subjects/OperatingSystems.md)
-* **Э** [Дополнительные главы высшей математики](Subjects/HigherMathematicsExtra.md)
-* **Э** [Специальные разделы физики](Subjects/Physics.md)
-* **=** [ОГНП: предмет 1](Subjects/Chosen1.md)
-* **=** [ОГНП: предмет 2](Subjects/Chosen2.md)
-* **=** [Безопасность жизнедеятельности](Subjects/Safety.md)
-* **=** [Английский язык](https://vk.cc/ak65kn)
+* **Э** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md) [ф]
+* **Э** [Технологии программирования](Subjects/ProgrammingTechnology.md) [ф]
+* **Э** [Математическая статистика](Subjects/MathematicalStatistics.md)
+* **Э** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md)
+* **Э** [Английский язык](https://vk.cc/ak65kn)
+* **$** [Дополнительные главы физики](Subjects/Physics.md)
+* **=** [Инструментальные средства разработки ПО](Subjects/SoftwareTools.md) [ф]
+* **=** [Прикладная математика](Subjects/AppliedMathematics.md) [ф]
 * **=** [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
-
 
 Учебная документация:
 * [Расписание занятий](Timetable.md#Расписание)
@@ -31,13 +30,6 @@
 * [ИСУ](https://isu.ifmo.ru/)
 * [ЦДО](https://de.ifmo.ru/)
 
+Новости:
 
-## Сессия. Третий семестр
-
-| Дата экзамена | Дата консультации | Предмет | Вопросы | Комментарий |
-| ----- | ------ | ------ |------ |------ |
-| 11 января, 10:00 | 9 января, 17:00 | [Объектно-ориентированное программирование](Subjects/ObjectOrientedProgramming.md) | [Список](Files/OOP/OOP_Exam.pdf) | Начало в 9:30  |
-| 15 января, 10:00 | 14 января, 17:00 | [Операционные системы](Subjects/OperatingSystems.md) | [Список](Files/OS/OS_Exam.pdf) |  |
-| 23 января, 10:00 | 22 января, 18:40 | [Дополнительные главы высшей математики](Subjects/HigherMathematicsExtra.md) | [Список](Files/Sem3MathExam.pdf) |  |
-| 28 января, 10:00 | 27 января, 17:00 | [Специальные разделы физики](Subjects/Physics.md) | [Список](Files/Sem3PhysExam.pdf) |  |
 
