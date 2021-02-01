@@ -16,3 +16,10 @@
 * [Компьютерная геометрия и графика](Subjects/ComputerGeometryAndGraphics.md)
 * [Математический анализ](Subjects/MathematicalAnalysis.md)
 * [Программирование](Subjects/Programming.md)
+
+## 3 семестр
+
+* [Объектно-ориентированное программирование](Subjects/ObjectOrientedProgramming.md)
+* [Операционные системы](Subjects/OperatingSystems.md)
+* [Дополнительные главы высшей математики](Subjects/HigherMathematicsExtra.md)
+* [Безопасность жизнедеятельности](Subjects/Safety.md)
