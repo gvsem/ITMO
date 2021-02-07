@@ -3,21 +3,24 @@
 
 ### Расписание
 
-Занятия помечены *dist*, если:
-* дисциплина является факультетской [ф]
-* помечена в ИСУ как дистанционная (по состоянию на 01.02.2021)
-* реализуется дистанционно фактически
+* Ссылки на дистанционные занятия больше не публикуются на GitHub. См. в Telegram
+* Занятия больше не обозначаются [*dist*](), т.к. все доступны дистанционно
+* В заголовках дней указаны корпуса, если ходить очно
+
+Аудитории отмечены, если можно заниматься очно:
+* с потоками M3213 и M3214 [=]
+* с преподавателем в аудитории [без обозначений]
 
 Нечётная неделя (1, 3, 5, 7...)
 
 |№| Понедельник | Вторник | Среда | Четверг | Пятница | Суббота |
 | ----- | ------ |------ |------ |------ |------ |------ |
 | | Ломо -> **dist** | **dist** | **dist** | Ломо -> **dist** | Биржа | **dist**|
-| 2. 10:00 - 11:30| **П** Иностранный язык [*dist*]() | **Лаб** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md) [*dist*]() | **П** [Математическая статистика](Subjects/MathematicalStatistics.md) [*dist*]()/325 | **П** Иностранный язык [*dist*]() |  | |
-| 3. 11:40 - 13:10| **Л** [Прикладная математика](Subjects/AppliedMathematics.md) [*dist*]()/*190* | **Л** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md) [*dist*]()/422 | **Л** [Математическая статистика](Subjects/MathematicalStatistics.md) [*dist*]() | **Л** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md) [*dist*]()/403 | **Л** [Дополнительные главы физики](Subjects/Physics.md) *550* | **Лаб** [Технологии программирования](Subjects/ProgrammingTechnology.md) [*dist*]() |
-| 4. 13:30 - 15:00|  | **Лаб** [Прикладная математика](Subjects/AppliedMathematics.md) [*dist*]() | **Лаб** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md) [*dist*]() | | **П** [Дополнительные главы физики](Subjects/Physics.md) *545* | **Л** [Технологии программирования](Subjects/ProgrammingTechnology.md) [*dist*]() |
-| 5. 15:20 - 16:50 | | | **Лаб** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md) [*dist*]() | **Лаб** [Инструментальные средства разработки ПО](Subjects/SoftwareTools.md) [*dist*]() | | |
-| 6. 17:00 - 18:30 | | | | **Лаб** [Инструментальные средства разработки ПО](Subjects/SoftwareTools.md) [*dist*]() | | |
+| 2. 10:00 - 11:30| **П** Иностранный язык *sp* | **Лаб** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md)  | **П** [Математическая статистика](Subjects/MathematicalStatistics.md) *325* | **П** Иностранный язык *sp* |  | |
+| 3. 11:40 - 13:10| **Л** [Прикладная математика](Subjects/AppliedMathematics.md) *=190* | **Л** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md) *=422* | **Л** [Математическая статистика](Subjects/MathematicalStatistics.md) | **Л** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md) *=403* | **Л** [Дополнительные главы физики](Subjects/Physics.md) *550* | **Лаб** [Технологии программирования](Subjects/ProgrammingTechnology.md) |
+| 4. 13:30 - 15:00|  | **Лаб** [Прикладная математика](Subjects/AppliedMathematics.md) | **Лаб** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md) | | **П** [Дополнительные главы физики](Subjects/Physics.md) *545* | **Л** [Технологии программирования](Subjects/ProgrammingTechnology.md) |
+| 5. 15:20 - 16:50 | | | **Лаб** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md)  | **Лаб** [Инструментальные средства разработки ПО](Subjects/SoftwareTools.md) | | |
+| 6. 17:00 - 18:30 | | | | **Лаб** [Инструментальные средства разработки ПО](Subjects/SoftwareTools.md)  | | |
 
 
 Чётная неделя (2, 4, 6, 8...)
@@ -25,11 +28,11 @@
 |№| Понедельник | Вторник | Среда | Четверг | Пятница | Суббота |
 | ----- | ------ |------ |------ |------ |------ |------ |
 | | Ломо -> **dist** | **dist** | **dist** | Ломо -> **dist** | Биржа | **dist**|
-| 2. 10:00 - 11:30| **П** Иностранный язык [*dist*]() | **Лаб** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md) [*dist*]() | **П** [Математическая статистика](Subjects/MathematicalStatistics.md) [*dist*]()/325 | **П** Иностранный язык [*dist*]() |  | |
-| 3. 11:40 - 13:10| **Л** [Прикладная математика](Subjects/AppliedMathematics.md) [*dist*]()/190 | **Л** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md) [*dist*]()/422 | **Л** [Математическая статистика](Subjects/MathematicalStatistics.md) [*dist*]() | **Л** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md) [*dist*]()/403 | **Л** [Дополнительные главы физики](Subjects/Physics.md) *550* | **Лаб** [Технологии программирования](Subjects/ProgrammingTechnology.md) [*dist*]() |
-| 4. 13:30 - 15:00|  | **Лаб** [Прикладная математика](Subjects/AppliedMathematics.md) [*dist*]() | | | **П** [Дополнительные главы физики](Subjects/Physics.md) *545* | **Л** [Технологии программирования](Subjects/ProgrammingTechnology.md) [*dist*]() |
-| 5. 15:20 - 16:50 | | | | **Л** [Инструментальные средства разработки ПО](Subjects/SoftwareTools.md) [*dist*]()/99 | | |
-| 6. 17:00 - 18:30 | | | | **Лаб** [Инструментальные средства разработки ПО](Subjects/SoftwareTools.md) [*dist*]()| | |
+| 2. 10:00 - 11:30| **П** Иностранный язык *sp* | **Лаб** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md) | **П** [Математическая статистика](Subjects/MathematicalStatistics.md) *325* | **П** Иностранный язык  |  | |
+| 3. 11:40 - 13:10| **Л** [Прикладная математика](Subjects/AppliedMathematics.md) *=190* | **Л** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md) *=422* | **Л** [Математическая статистика](Subjects/MathematicalStatistics.md) | **Л** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md) *=403* | **Л** [Дополнительные главы физики](Subjects/Physics.md) *550* | **Лаб** [Технологии программирования](Subjects/ProgrammingTechnology.md) |
+| 4. 13:30 - 15:00|  | **Лаб** [Прикладная математика](Subjects/AppliedMathematics.md) | | | **П** [Дополнительные главы физики](Subjects/Physics.md) *545* | **Л** [Технологии программирования](Subjects/ProgrammingTechnology.md)  |
+| 5. 15:20 - 16:50 | | | | **Л** [Инструментальные средства разработки ПО](Subjects/SoftwareTools.md) *=99* | | |
+| 6. 17:00 - 18:30 | | | | **Лаб** [Инструментальные средства разработки ПО](Subjects/SoftwareTools.md) | | |
 
 
 
