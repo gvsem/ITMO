@@ -18,4 +18,4 @@
 
 Занимайтесь каждый вторник в 11:40
 
-[Лабы](https://books.ifmo.ru/file/pdf/510.pdf)
+[Лабы](https://books.ifmo.ru/file/pdf/2482.pdf)
