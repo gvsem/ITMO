@@ -16,7 +16,7 @@
 | ---   | --- | --- | --- | --- | --- |
 | Баллы   | 5 | 3 | 7 | 20 | **35** |
 
-[Учебник](https://books.ifmo.ru/file/pdf/493.pdf)
+[Учебник](https://books.ifmo.ru/book/436/obschaya_elektrotehnika.htm)
 
 [План дисциплины (+ варианты)](../Files/Electricals/00_примерный_план_М32xxх.pdf)
 
