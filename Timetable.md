@@ -16,7 +16,7 @@
 |№| Понедельник | Вторник | Среда | Четверг | Пятница | Суббота |
 | ----- | ------ |------ |------ |------ |------ |------ |
 | | ГК | ГК | ГК | ГК | Биржа | **dist** |
-| 2. 10:00 - 11:30| **П** Иностранный язык *sp* | **Лаб** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md)  | **П** [Математическая статистика](Subjects/MathematicalStatistics.md) *325* | **П** Иностранный язык *sp* |  | |
+| 2. 10:00 - 11:30| **П** Иностранный язык *sp* | **Лаб** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md)  | **П** [Математическая статистика](Subjects/MathematicalStatistics.md) *137* | **П** Иностранный язык *sp* |  | |
 | 3. 11:40 - 13:10| **Л** [Прикладная математика](Subjects/AppliedMathematics.md) *=190* | **Л** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md) *=422* | **Л** [Математическая статистика](Subjects/MathematicalStatistics.md) | **Л** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md) *=403* | **Л** [Дополнительные главы физики](Subjects/Physics.md) *550* | **Лаб** [Технологии программирования](Subjects/ProgrammingTechnology.md) |
 | 4. 13:30 - 15:00|  | **Лаб** [Прикладная математика](Subjects/AppliedMathematics.md) | **Лаб** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md) | | **П** [Дополнительные главы физики](Subjects/Physics.md) *545* | **Л** [Технологии программирования](Subjects/ProgrammingTechnology.md) |
 | 5. 15:20 - 16:50 | | | **Лаб** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md)  | **Лаб** [Инструментальные средства разработки ПО](Subjects/SoftwareTools.md) | | |
@@ -28,7 +28,7 @@
 |№| Понедельник | Вторник | Среда | Четверг | Пятница | Суббота |
 | ----- | ------ |------ |------ |------ |------ |------ |
 | | ГК | ГК | ГК | ГК | Биржа | **dist** |
-| 2. 10:00 - 11:30| **П** Иностранный язык *sp* | **Лаб** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md) | **П** [Математическая статистика](Subjects/MathematicalStatistics.md) *325* | **П** Иностранный язык  *sp* |  | |
+| 2. 10:00 - 11:30| **П** Иностранный язык *sp* | **Лаб** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md) | **П** [Математическая статистика](Subjects/MathematicalStatistics.md) *137* | **П** Иностранный язык  *sp* |  | |
 | 3. 11:40 - 13:10| **Л** [Прикладная математика](Subjects/AppliedMathematics.md) *=190* | **Л** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md) *=422* | **Л** [Математическая статистика](Subjects/MathematicalStatistics.md) | **Л** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md) *=403* | **Л** [Дополнительные главы физики](Subjects/Physics.md) *550* | **Лаб** [Технологии программирования](Subjects/ProgrammingTechnology.md) |
 | 4. 13:30 - 15:00|  | **Лаб** [Прикладная математика](Subjects/AppliedMathematics.md) | | | **П** [Дополнительные главы физики](Subjects/Physics.md) *545* | **Л** [Технологии программирования](Subjects/ProgrammingTechnology.md)  |
 | 5. 15:20 - 16:50 | | | | **Л** [Инструментальные средства разработки ПО](Subjects/SoftwareTools.md) *=99* | | |
