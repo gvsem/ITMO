@@ -10,6 +10,9 @@
 
 Занимайтесь в четный четверг в 15:20
 
+[Онлайн лекции](https://www.twitch.tv/roman1pr)
+
+[Записи лекций](https://youtube.com/playlist?list=PLj7ewET2KEJyjSm3JYL3DRtI8CAdbSbdZ)
 
 ### Лабы
 
