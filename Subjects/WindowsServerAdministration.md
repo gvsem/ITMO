@@ -23,4 +23,6 @@
 
 [Лаба №1](../Files/WindowsServer/awin%20%231.docx)
 
+[Лаба №2](../Files/WindowsServer/awin%20%232.docx)
+
 > [Пост №1](https://t.me/ITSMDao/193) [Пост №2](https://t.me/ITSMDao/195) [Пост №3](https://t.me/ITSMDao/211) 
