@@ -20,4 +20,6 @@
 
 Занимайтесь каждый нечетный четверг в 15:20 x2
 
+[Баллы](https://docs.google.com/spreadsheets/d/1KoAzkVibonXIWwBE99I5o3vFxrlJ7vOcxnR2U1NLwqA/edit#gid=0)
+
 [ТЗ лаб](../Files/DevtoolsLabs.pdf)
