@@ -10,6 +10,8 @@
 
 Занимайтесь каждый четверг в 11:40
 
+[Записи лекций](https://www.youtube.com/playlist?list=PLj7ewET2KEJyfxT-GV3D2QbY81Eo-KDY8)
+
 
 ### Лабы
 
