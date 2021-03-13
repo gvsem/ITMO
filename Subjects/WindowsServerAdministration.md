@@ -19,6 +19,8 @@
 
 Занимайтесь в нечетную среду в 13:30 x2
 
+[Баллы и дедлайны](https://drive.google.com/file/d/1usB7hX8CUYi5F8R-5oPx7XRf_g9Ia3sb/view?usp=sharing)
+
 [Учебный образ Windows 2012 R2 64](https://t.me/ITSMDao/82)
 
 [Windows Server Ознакомительные версии](https://www.microsoft.com/ru-ru/evalcenter/evaluate-windows-server)
