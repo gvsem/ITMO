@@ -19,7 +19,7 @@
 
 Занимайтесь в нечетную среду в 13:30 x2
 
-[Баллы и дедлайны](https://drive.google.com/file/d/1usB7hX8CUYi5F8R-5oPx7XRf_g9Ia3sb/view?usp=sharing)
+[Баллы и дедлайны](https://docs.google.com/spreadsheets/d/10zTunwUxbw-KJ2nfV1eZMwYCj-97M--EIe3XrXrEhgk/edit?usp=sharing)
 
 [Учебный образ Windows 2012 R2 64](https://t.me/ITSMDao/82)
 
