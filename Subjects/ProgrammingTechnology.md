@@ -20,3 +20,5 @@
 **Преподаватель:** Суховицкий Андрей Александрович
 
 Занимайтесь каждую субботу в 11:40
+
+[Таблица](https://docs.google.com/spreadsheets/d/1rP6OsGMSIkXJb4Ryq9j3fNRgRMw2C2lnTz6SeAaGETw/edit?usp=sharing)
