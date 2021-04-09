@@ -16,7 +16,7 @@
 
 [Вопросы к экзамену](../Files/MatStatExam.pdf)
 
-[Типовик №1](../Files/MatStatTip1.pdf)
+[Типовик №1 и №2](../Files/MatStatTip1.pdf)
 
 
 **Литература:**
