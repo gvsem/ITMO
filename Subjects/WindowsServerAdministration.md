@@ -33,4 +33,6 @@
 
 [Лаба №4](../Files/WindowsServer/awin%20%234.docx)
 
+[Лаба №5](../Files/WindowsServer/awin%20%235.docx)
+
 > [Пост №1](https://t.me/ITSMDao/193) [Пост №2](https://t.me/ITSMDao/195) [Пост №3](https://t.me/ITSMDao/211) 
