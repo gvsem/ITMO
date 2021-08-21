@@ -1,19 +1,26 @@
-# M3201. ИС. ИТиП. ИТМО
-**[ Информационные системы и технологии ]**
+# M3301. ИС. ИТиП. ИТМО
+**[ Информационные системы и технологии / 1 ]**
 
 ## Учебные полезности
 
 Учебные дисциплины:
 
-* **Э** [Администрирование в ОС Windows Server](Subjects/WindowsServerAdministration.md) [ф]
-* **Э** [Технологии программирования](Subjects/ProgrammingTechnology.md) [ф]
-* **Э** [Математическая статистика](Subjects/MathematicalStatistics.md)
-* **Э** [Электротехника и электроника](Subjects/ElectricalAndElectronics.md)
-* **Э** [Английский язык](https://vk.cc/ak65kn)
-* **$** [Дополнительные главы физики](Subjects/Physics.md)
-* **=** [Инструментальные средства разработки ПО](Subjects/SoftwareTools.md) [ф]
-* **=** [Прикладная математика](Subjects/AppliedMathematics.md) [ф]
-* **=** [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
+* **Э** [Анализ и проектирование на UML](Subjects/UML.md)
+* **Э** [Администрирование в ОС Linux](Subjects/LinuxAdministration.md)
+* **Э** [Машинное обучение](Subjects/MachineLearning.md)
+* **Э** [Методы оптимизации](Subjects/OptimizationMethods.md)
+* **$** [История |>]()
+* **=** [Web-программирование](Subjects/WebProgramming.md)
+* **=** [Цифровая культура в проф. деятельности |>]()
+* **=** [Иностранный язык в проф. деятельности |>](https://vk.com/fltc.itmo)
+* **=** [Физическая культура |>](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
+
+>*Легенда.*
+>* *Э Экзамен*
+>* *$ Дифференцированный зачет*
+>* *= Зачет*
+>* *|> Модуль дисциплин по выбору*
+
 
 Учебная документация:
 * [Расписание занятий](Timetable.md#Расписание)
@@ -23,8 +30,6 @@
 
 Документы:
 * [Список группы](GroupList.md)
-* [Диск потока](https://drive.google.com/drive/folders/1fC6WB74TOPxm7cGoJRpLWFFAYl6r1nQl)
-* [Диск группы](https://drive.google.com/drive/folders/1-vDZS3wehIW1l_QkGFHEEHH3K2wVaMKx)
 * [Конспекты ИТМО](http://neerc.ifmo.ru/wiki/)
 
 Учебные ссылки:
