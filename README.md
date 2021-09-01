@@ -8,7 +8,7 @@
 * **Э** [Анализ и проектирование на UML](Subjects/UML.md)
 * **Э** [Администрирование в ОС Linux](Subjects/LinuxAdministration.md)
 * **Э** [Машинное обучение](Subjects/MachineLearning.md)
-* **Э** [Методы оптимизации](Subjects/OptimizationMethods.md)
+* **Э** [Прикладная математика](Subjects/AppliedMathematics.md)
 * **$** [История |>]()
 * **=** [Web-программирование](Subjects/WebProgramming.md)
 * **=** [Цифровая культура в проф. деятельности |>]()
