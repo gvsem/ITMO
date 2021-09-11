@@ -8,9 +8,9 @@
 | ----- | ------ |------ |------ |------ |------ |------ |
 | | ГК | | ГК | ГК |  |  |
 | 3. 11:40 - 13:10| **Л** [Машинное обучение](Subjects/MachineLearning.md) *285* | | **Л** [Веб-программирование](Subjects/WebProgramming.md) *100* | | |  |
-| 4. 13:30 - 15:00| **Лаб** [Администрирование в ОС Linux](Subjects/LinuxAdministration.md) *237* |  |  **Лаб** [Веб-программирование](Subjects/WebProgramming.md) *151* | **Л** [Администрирование в ОС Linux](Subjects/LinuxAdministration.md) *100* | | |
-| 5. 15:20 - 16:50 | **Лаб** [Администрирование в ОС Linux](Subjects/LinuxAdministration.md) *237* |  | **Лаб** [Веб-программирование](Subjects/WebProgramming.md) *151*| **Л** [Анализ и проектирование на UML](Subjects/UML.md) *331* | | |
-| 6. 17:00 - 18:30 | | | **Лаб** [Анализ и проектирование на UML](Subjects/UML.md) *237*|   | | |
+| 4. 13:30 - 15:00| | |  **Лаб** [Веб-программирование](Subjects/WebProgramming.md) *151* | **Л** [Администрирование в ОС Linux](Subjects/LinuxAdministration.md) *100* | | |
+| 5. 15:20 - 16:50 | | | **Лаб** [Веб-программирование](Subjects/WebProgramming.md) *151*| **Л** [Анализ и проектирование на UML](Subjects/UML.md) *331* | **Лаб** [Администрирование в ОС Linux](Subjects/LinuxAdministration.md) *229* | |
+| 6. 17:00 - 18:30 | | | **Лаб** [Анализ и проектирование на UML](Subjects/UML.md) *237*|   | **Лаб** [Администрирование в ОС Linux](Subjects/LinuxAdministration.md) *229* | |
 | 7. 18:40 - 20:10 | | | **Лаб** [Анализ и проектирование на UML](Subjects/UML.md) *237*|   | | |
 
 
